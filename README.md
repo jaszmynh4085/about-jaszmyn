@@ -1,6 +1,6 @@
 ## About me
 
-***Name:*** 
+**Name:** 
 Jaszmyn Hernandez
 
 **Email:** 
