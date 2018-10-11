@@ -1,8 +1,8 @@
 Jaszmyn Hernandez
 
-Email: jaszmynh4085@hstat.org
+**Email:** jaszmynh4085@hstat.org
 
-School: hstat
+**School:** hstat
 
-Bio:
+**Bio:**
 bored student that just wants to go home
