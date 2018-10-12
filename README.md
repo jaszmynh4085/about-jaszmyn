@@ -1,13 +1,13 @@
 ## About me
 
-**Name:** 
+**Name:**  
 Jaszmyn Hernandez
 
-**Email:** 
+**Email:**  
 jaszmynh4085@hstat.org
 
-**School:** 
+**School:**  
 hstat
 
-**Bio:**
+**Bio:**  
 bored student that just wants to go home
