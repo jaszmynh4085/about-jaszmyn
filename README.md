@@ -41,8 +41,8 @@ bored student that just wants to go home
     * Painting
 * Reading
 * Watching videos
-* _Sleeping_
-    * (not really)
+* Sleeping
+    * _(not really)_
 
 
 
