@@ -9,8 +9,9 @@ Jaszmyn Hernandez
 **Gender:**  
 Female
 
-### School Related
 ---
+### School Related
+
 **Email:**  
 jaszmynh4085@hstat.org
 
